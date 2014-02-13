@@ -1,6 +1,6 @@
 allprojects  {
   apply plugin: 'maven'
-  apply plugin: 'eclipse'
+
   group = 'com.github'
   version = '0.1-SNAPSHOT'
 }
